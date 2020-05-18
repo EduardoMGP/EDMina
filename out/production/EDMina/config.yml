@@ -1,0 +1,20 @@
+tempo-reset-mina: 10
+
+
+argumentos-mina:
+    - '/mina criar nome'
+marque-uma-regiao: '&cMarque uma regiao para poder definir a mina'
+marcar-regiao: '&aVoce recebeu uma machado para marcar a regiao da mina'
+uso-correto-criar: '&cUso correto: /mina criar <nome>'
+uso-correto-restaurar: '&cUso correto: /mina restaurar <nome>'
+uso-correto-deletar: '&cUso correto: /mina deletar <nome>'
+pos1-marcada: '&aPosicao 1 marcada'
+pos2-marcada: '&aPosicao 2 marcada'
+sem-permissao: '&cDesculpe! VocÊ não possi permissão para usar este comando'
+mina-definida: '&aMina %nome% marcada com sucesso'
+mina-ja-existe: '&cDesculpe, esta mina ja existe'
+mina-nao-existe: '&cDesculpe, esta mina ainda não existe'
+mina-deletada: '&aMina %nome% deletada com sucesso'
+mina-holograma-criado: '&aHolograma da mina %nome% criado'
+mina-resetada-titulo: '&aMina %nome%'
+mina-resetada-subtitulo: '&fFoi restaurada com sucesso'

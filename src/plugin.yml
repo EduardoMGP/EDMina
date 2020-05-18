@@ -1,0 +1,6 @@
+name: EDMina
+version: 1.0
+author: EduardoMGP
+main: edmina.EDMina
+commands:
+    mina:
